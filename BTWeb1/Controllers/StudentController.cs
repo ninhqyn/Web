@@ -40,8 +40,8 @@ public class StudentController : Controller
     [HttpPost]
     [Route("Admin/Student/Add")]
     public IActionResult Create(Student s)
-    {s
-            .Id = listStudents.Last<Student>().Id + 1;
+    {
+        s.Id = listStudents.Last<Student>().Id + 1;
         listStudents.Add(s);
         return View("Index", listStudents);
     }
