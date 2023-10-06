@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xZsFdD4vJeIIPFCMw4UOc8qGfV3JzrH2McGQL6Tyk3s=",
+  "Hash": "B2kR5GeG4YC9LflTTH9pZXN9eZTRvqv6Wz6n3L/7GZM=",
   "Source": "BTWeb1",
   "BasePath": "_content/BTWeb1",
   "Mode": "Default",
@@ -68,6 +68,23 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+      "Identity": "C:\\Users\\ttt\\RiderProjects\\BTWeb1\\BTWeb1\\wwwroot\\css\\styles.css",
+      "SourceId": "BTWeb1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ttt\\RiderProjects\\BTWeb1\\BTWeb1\\wwwroot\\",
+      "BasePath": "_content/BTWeb1",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
       "Identity": "C:\\Users\\ttt\\RiderProjects\\BTWeb1\\BTWeb1\\wwwroot\\favicon.ico",
       "SourceId": "BTWeb1",
       "SourceType": "Discovered",
@@ -83,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\ttt\\RiderProjects\\BTWeb1\\BTWeb1\\wwwroot\\js\\scripts.js",
+      "SourceId": "BTWeb1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ttt\\RiderProjects\\BTWeb1\\BTWeb1\\wwwroot\\",
+      "BasePath": "_content/BTWeb1",
+      "RelativePath": "js/scripts.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\scripts.js"
     },
     {
       "Identity": "C:\\Users\\ttt\\RiderProjects\\BTWeb1\\BTWeb1\\wwwroot\\js\\site.js",
